@@ -4,15 +4,15 @@
 
 int main()
 {
-    int v1, v2, soma;
+    int valor1, valor2, soma;
     
     printf("Digite o primeiro valor a ser somado:");
-    scanf("%d",&v1);
+    scanf("%d",&valor1);
     
     printf("Digite o segundo valor a ser somado:");
-    scanf("%d",&v2);
+    scanf("%d",&valor2);
     
-    soma = v1 + v2;
+    soma = valor1 + valor2;
     
     printf("O resultado é igual a: %d",soma);
     
